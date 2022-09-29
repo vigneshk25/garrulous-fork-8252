@@ -171,3 +171,105 @@
 .mid1Child2>p{
     color: #455555;
 }
+
+/****Mid Point******/
+
+.midPoint>img{
+    padding-top: 50px;
+    width: 220px;
+}
+.midPoint{
+    text-align: center;
+}
+
+.midPoint>h1{
+    color: #FF9400;
+    font-size: 91px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.midPoint>h2{
+    font-size: 28px;
+    color: #455555;
+    padding-top: 10px;
+    letter-spacing: 12px;
+    padding-bottom: 30px;
+}
+.midPoint>hr{
+    border: 5px solid #FF9400 ;
+    width: 50px;
+    margin-left: 650px;
+}
+.midPoint>h3{
+    padding-top: 50px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    font-size: 21px;
+
+}
+
+/*** mid Img****/
+
+.midImg{
+    padding-top: 40px;
+    display: flex;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 80px;
+}
+.midImg>img{
+    width: 15%;
+    margin-left: 8%;
+    height: 10%;
+}
+
+
+/* mid B*/
+
+.midB{
+    background-color:#183962 ;
+    padding-bottom: 30px;
+   
+}
+
+.midB>h2{
+    padding-top: 50px;
+    color: white;
+    letter-spacing: 3px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.midBa{
+    display: flex;
+}
+
+.img>img{
+    padding-top: 20px;
+    width: 200px;
+}
+.img{
+    text-align: center;
+    width: 30%;
+    margin-left: 150px;
+    color: white;
+    padding-bottom: 40px;
+}
+.img>p{
+    color: #FF9400;
+    font-size: 15px;
+}
+.img>span{
+    font-size: 12px;
+}
+
+.midB>button{
+    background-color:#FF9400 ;
+    color: white;
+    width: 200px;
+    height: 50px;
+    text-align: centers;
+    margin-left: 45%;
+    border-color: #FF9400;
+    border-radius: 5px;
+}
